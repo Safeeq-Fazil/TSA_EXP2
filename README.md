@@ -1,6 +1,6 @@
 ## Developed By: SAFEEQ FAZIL A
 ## Register no: 212222240086
-## Date:
+## Date: 24.08.2024
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 
 ### AIM:
